@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**Vvii20/Vvii20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vitória 
 
-Here are some ideas to get you started:
+- tenho 16 anos
+- desejo cursar medicina
+- Estou me desenvolvendo na linguagem JavaScript
+- Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contado comigo 📧
+
+vi2007.fsantos@gmail
+
+
+![image](https://github.com/Vvii20/Vvii20/assets/170373374/d51a9e70-aa5a-40bb-9349-3f490c954014)
