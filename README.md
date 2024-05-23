@@ -1,15 +1,15 @@
 ### Boas vindas ao meu perfil 🖤
 
-Meu nome é Davi
+Meu nome é Vitoria 
 
 - tenho 16 anos
-- amo comprar blusa da Nike 
+- meu sonho e cursar medicina 
 - Estou me desenvolvendo na linguagem JavaScript
 - Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contado comigo 📧
 
 
-@pelotinhaaaa
+@vi2007.fsantos
 
-![image](https://github.com/Vvii20/Vvii20/assets/170373374/32cbc7e2-83d7-48fb-b319-c98f93d0ac06)
+![image](https://github.com/Vvii20/Vvii20/assets/170373374/26cef721-ce26-4824-bc07-3809980990f2)
