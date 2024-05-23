@@ -12,5 +12,4 @@ Meu nome é Davi
 
 @pelotinhaaaa
 
-![](![image](https://github.com/Vvii20/Vvii20/assets/170373374/900baeb9-2cd9-4cd6-9f12-2dfcf4242b39)
-)
+![image](https://github.com/Vvii20/Vvii20/assets/170373374/32cbc7e2-83d7-48fb-b319-c98f93d0ac06)
